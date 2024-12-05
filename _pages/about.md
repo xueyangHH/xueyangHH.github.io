@@ -2,17 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://lsa.umich.edu/linguistics/people/graduate-students/xueyangh.html'>Affiliations</a>.
+subtitle: <a href='https://lsa.umich.edu/linguistics/people/graduate-students/xueyangh.html'>Linguistics PhD student at University of Michigan</a>.
 
 profile:
   align: left
   image:
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>459A</p>
+    <p>Rm 459A</p>
     <p>440 Lorch Hall, University of Michigan</p>
     <p>611 Tappan Avenue</p>
-    <p>Ann Arbor, Michigan 48105</p>
+    <p>Ann Arbor, Michigan 48109</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
