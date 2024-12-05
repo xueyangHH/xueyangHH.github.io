@@ -6,7 +6,7 @@ subtitle: <a href='https://lsa.umich.edu/linguistics/people/graduate-students/xu
 
 profile:
   align: left
-  image:
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Rm 459A</p>
