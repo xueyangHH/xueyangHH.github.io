@@ -13,7 +13,6 @@ profile:
     <p>440 Lorch Hall, University of Michigan</p>
     <p>611 Tappan Avenue</p>
     <p>Ann Arbor, Michigan 48109</p>
-  audio: epicaly-short-113909.mp3
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,3 +23,4 @@ Hi! I am a first-year Ph.D. student in Linguistics at the University of Michigan
 
 Now at Michigan, although I am still exploring my options, I plan to shift my focus from sentence processing to sentence planning in bilingual code-switching production. My research will explore how bilingual speakers build up grammatical structures while switching between languages during real-time communication. Collaborating with [Dr. Jonathan Brennan](https://jobrenn.gitlab.io/) at the [Computational Neurolinguistics Lab](https://sites.lsa.umich.edu/cnllab/), I aim to connect psycholinguistic, neurolinguistic, and computational approaches to better understand the mechanisms underlying bilingual language use.
 
+Click [here](https://drive.google.com/file/d/1TAEorZJt5JWuLJorHxp9a-SRyafKulNA/view?usp=drive_link) to listen to the pronunciation of my name! :grin:
