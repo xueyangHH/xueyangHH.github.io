@@ -13,6 +13,7 @@ profile:
     <p>440 Lorch Hall, University of Michigan</p>
     <p>611 Tappan Avenue</p>
     <p>Ann Arbor, Michigan 48109</p>
+  audio: epicaly-short-113909.mp3
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
