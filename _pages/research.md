@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: The following is a list of my current research interests: 
+description: The following is a list of my current research interests.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
