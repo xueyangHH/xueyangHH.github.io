@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://lsa.umich.edu/linguistics/people/graduate-students/xueyangh.html'>Affiliations</a>.
 
 profile:
-  align: right
+  align: left
   image:
   image_circular: false # crops the image to make it circular
   more_info: >
