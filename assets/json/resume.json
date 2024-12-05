@@ -5,8 +5,7 @@
     "image": "",
     "email": "xueyangh@umich.edu",
     "phone": "(347) 952-0353",
-    "url": "https://github.com/xueyangHH",
-    "summary": "PhD student specializing in phonetics, psycholinguistics, and neurolinguistics, exploring bilingualism and sound change using experimental and computational approaches.",
+    "Github homepage": "https://github.com/xueyangHH",
     "location": {
       "address": "440 Lorch Hall, 611 Tappan Avenue",
       "postalCode": "48104",
@@ -16,6 +15,70 @@
     },
     "profiles": []
   },
+  "interests": [
+    {
+      "name": "Linguistics",
+      "keywords": [
+        "Bilingualism/Multilingualism",
+        "Neurolinguistics",
+        "Code-switching",
+        "Language Production",
+        "Syntax",
+        "Syntax-semantics Interface"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "location": "Ann Arbor, MI",
+      "url": "",
+      "area": "Linguistics",
+      "studyType": "PhD",
+      "startDate": "2024-09-01",
+      "courses": []
+    },
+    {
+      "institution": "New York University",
+      "location": "New York, NY",
+      "url": "",
+      "area": "Psychology and Linguistics",
+      "studyType": "BA",
+      "startDate": "2018-09-01",
+      "endDate": "2022-05-01",
+      "courses": []
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "The Sentence Superiority Effect and the Transposed-word Effect in Mandarin-English Code-switching: An MEG Study",
+      "publisher": "",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "Manuscript in preparation."
+    }
+  ],
+    "presentations": [
+    {
+      "name": "The Top Down Role of Grammatical Knowledge during Mandarin-English Code-switching",
+      "event": "37th Annual Conference on Human Sentence Processing",
+      "date": "2024-05-01",
+      "location": "Ann Arbor, MI"
+    },
+    {
+      "name": "The Sentence Superiority Effect and the Transposed-word Effect in Mandarin-English Code-switching",
+      "event": "17th Annual Cornell Undergraduate Linguistics Colloquium",
+      "date": "2023-04-01",
+      "location": "Ithaca, NY"
+    },
+    {
+      "name": "The Sentence Superiority Effect and the Transposed-word Effect in Mandarin-English Code-switching",
+      "event": "4th Emory Undergraduate Linguistics Conference",
+      "date": "2023-04-01",
+      "location": "Remote"
+    }
+  ],
   "work": [
     {
       "name": "Neurolinguistics Lab, New York University",
@@ -42,44 +105,6 @@
       "endDate": "2023-01-01",
       "summary": "Worked on child language acquisition and counterfactual reasoning development projects. Assisted in experiments, data annotation, participant recruitment, and community science events.",
       "highlights": []
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Michigan",
-      "location": "Ann Arbor, MI",
-      "url": "",
-      "area": "Linguistics",
-      "studyType": "PhD",
-      "startDate": "2024-09-01",
-      "courses": []
-    },
-    {
-      "institution": "New York University",
-      "location": "New York, NY",
-      "url": "",
-      "area": "Psychology and Linguistics",
-      "studyType": "BA",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.896/4.0",
-      "courses": [
-        "Neural Bases of Language",
-        "Language and Mind",
-        "Grammatical Analysis I & II",
-        "Advanced Semantics",
-        "Phonological Analysis",
-        "Language Change"
-      ]
-    }
-  ],
-  "publications": [
-    {
-      "name": "The Sentence Superiority Effect and the Transposed-word Effect in Mandarin-English Code-switching: An MEG Study",
-      "publisher": "",
-      "releaseDate": "2024",
-      "url": "",
-      "summary": "Manuscript in preparation."
     }
   ],
   "skills": [
@@ -137,17 +162,6 @@
       "fluency": "Elementary"
     }
   ],
-  "interests": [
-    {
-      "name": "Linguistics",
-      "keywords": [
-        "Bilingualism",
-        "Sound Change",
-        "Language Production",
-        "Usage-based Grammar"
-      ]
-    }
-  ],
   "awards": [
     {
       "title": "Weinberg Institute for Cognitive Science Graduate Fellowship",
@@ -160,26 +174,6 @@
       "date": "2024",
       "awarder": "Annual Conference on Human Sentence Processing",
       "summary": "Travel award of $400 for conference participation."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "The Top Down Role of Grammatical Knowledge during Mandarin-English Code-switching",
-      "event": "37th Annual Conference on Human Sentence Processing",
-      "date": "2024-05-01",
-      "location": "Ann Arbor, MI"
-    },
-    {
-      "name": "The Sentence Superiority Effect and the Transposed-word Effect in Mandarin-English Code-switching",
-      "event": "17th Annual Cornell Undergraduate Linguistics Colloquium",
-      "date": "2023-04-01",
-      "location": "Ithaca, NY"
-    },
-    {
-      "name": "The Sentence Superiority Effect and the Transposed-word Effect in Mandarin-English Code-switching",
-      "event": "4th Emory Undergraduate Linguistics Conference",
-      "date": "2023-04-01",
-      "location": "Remote"
     }
   ]
 }
